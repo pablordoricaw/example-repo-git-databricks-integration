@@ -1,1 +1,1 @@
-# test_Databricks_repo
+# Example repository for Git integration with Databricks
